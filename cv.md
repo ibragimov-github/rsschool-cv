@@ -32,3 +32,8 @@ I have good learning abilities. Good ability to work in a team. Great passion fo
 
 ## Education
 [hexlet courses](https://ru.hexlet.io/my)
+
+## Language
+    English: A2
+    Russian: native
+    Czech: B2
